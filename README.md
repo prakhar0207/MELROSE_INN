@@ -1,0 +1,5 @@
+# BUSINESS-ADVERTISING-WEBSITE-
+It is an e-commerce website of MELLROSE INN(Restaurant) allows users to visit their profiles and check their products, and users can order those products or can have them at by visiting the Restaurant
+The business advertisement website is a complex web application that requires the use of multiple technologies. HTML, Java, CSS, Node.js, and Express.js are used together to create a seamless user experience. The website allows businesses to advertise their products and services to potential customers, and users can browse and order those products. The website is designed to be scalable and high-performance, with robust security features to protect user data. Overall, the website is an excellent example of modern web development practices and technologies.
+Overall, the business advertisement website aims to create a win-win situation for businesses and customers by providing a platform for businesses to promote their offerings and for customers to purchase those offerings conveniently.
+
